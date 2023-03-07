@@ -1,0 +1,13 @@
+# ninja log v5
+1	1468	6918849148910714	CMakeFiles/StatementsAndFunctions.dir/main.cpp.obj	a2c0cd9c1e7d9d19
+1473	1685	6918849150850681	StatementsAndFunctions.exe	a2bb13ee93390214
+5	1123	6918849311916106	CMakeFiles/StatementsAndFunctions.dir/main.cpp.obj	a2c0cd9c1e7d9d19
+1125	1321	6918849313816080	StatementsAndFunctions.exe	a2bb13ee93390214
+12	2611	6919133141142196	CMakeFiles/StatementsAndFunctions.dir/main.cpp.obj	a2c0cd9c1e7d9d19
+2613	3026	6919133145160919	StatementsAndFunctions.exe	a2bb13ee93390214
+10	1494	6919135737505920	CMakeFiles/StatementsAndFunctions.dir/main.cpp.obj	a2c0cd9c1e7d9d19
+1497	1753	6919135740054693	StatementsAndFunctions.exe	a2bb13ee93390214
+8	1518	6919136940355095	CMakeFiles/StatementsAndFunctions.dir/main.cpp.obj	a2c0cd9c1e7d9d19
+1520	1813	6919136943199815	StatementsAndFunctions.exe	a2bb13ee93390214
+6	2125	6919139861628331	CMakeFiles/StatementsAndFunctions.dir/main.cpp.obj	a2c0cd9c1e7d9d19
+2127	2543	6919139865574389	StatementsAndFunctions.exe	a2bb13ee93390214

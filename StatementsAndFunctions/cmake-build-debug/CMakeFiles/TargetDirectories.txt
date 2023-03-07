@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/C++/StatementsAndFunctions/cmake-build-debug/CMakeFiles/StatementsAndFunctions.dir
+C:/Users/HP/Desktop/C++/StatementsAndFunctions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/C++/StatementsAndFunctions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
